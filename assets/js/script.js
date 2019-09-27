@@ -2,7 +2,7 @@ var sh = 18;
 
 function dropSh(val){
   var $txsh = $('p').css('text-shadow');
-  $('p').css('text-shadow', $txsh + ',' + val + 'px' + val + 'px 0 #ff7373');
+  $('p').css('text-shadow', $txsh + ', ' + val + 'px ' + val + 'px 0 #ff7373');
 }
 
 var i = 0;
