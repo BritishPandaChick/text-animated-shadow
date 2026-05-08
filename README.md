@@ -1,12 +1,16 @@
 # Cool Effect with Animated Text Shadow project
+Text with an animated text shadow
 
-CodePlayer Cool Effect with Animated Text Shadow project. Made with HTML, CSS, JavaScript and jQuery.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 ## Instructions 
-Clone repo or download zip file. Open index.html file in your browser.
-
-## Contributions 
-This project is based on starter code from TheCodePlayer.com. Therefore I won't be accepting any pull requests.
+1. Clone repo or download zip file. 
+2. Open index.html file in your browser.
+3. You will see text near the center of the page in the animated text shadow effect.
 
 ## Acknowledgements 
 * TheCodePlayer.com
